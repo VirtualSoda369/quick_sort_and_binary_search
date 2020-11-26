@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Quick sort and Binary search 
 
-You can use the [editor on GitHub](https://github.com/VirtualSoda369/quick_sort_and_binary_search/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt_text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_portada_final.jpg?raw=true "img_portada")
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Unfortunately, after about 1 hour of googling, I have not been able to find the artist who made this painting.
+If you find out, let me know!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+// Can we implement faster sorting algorithm for JavaScript?
+// an in-depth post about implementing a high-performance non-recursive version of the quick sort algorithm,
+// excellent read and source of cool code also
+[CLICK HERE](https://quick.work/?page=view-blog&id=24)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+// a stackoverflow question about the performance of native implementations vs custom implementations of the sort algorithm
+// with examples and a great deal of detail about what's going inside the V8 engine
+[CLICK HERE](https://stackoverflow.com/questions/38732480/native-javascript-sort-performing-slower-than-implemented-mergesort-and-quicksor/38733191#:~:text=Native%20JavaScript%20sort%20performing%20slower%20than%20implemented%20mergesort%20and%20quicksort,-javascript%20node.js&text=Both%20algorithms%20use%20as%20less,the%20starting%20and%20ending%20positions.)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VirtualSoda369/quick_sort_and_binary_search/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_1.jpg?raw=true "post_img_1")
 
-### Support or Contact
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_2.jpg?raw=true "post_img_2")
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_3.jpg?raw=true "post_img_3")
+
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_4.jpg?raw=true "post_img_4")
+
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_5.jpg?raw=true "post_img_5")
+
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_6.jpg?raw=true "post_img_6")
+
+![alt text](https://github.com/VirtualSoda369/quick_sort_and_binary_search/blob/main/Post/foto_post_7.jpg?raw=true "post_img_7")
+
+
+
+
